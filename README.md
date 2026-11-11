@@ -53,19 +53,19 @@ Most backtests look good. Few survive trading costs, realistic execution, out-of
 
 ## Deliverables
 
-Everything opens from **one file**, `00_START_HERE`, in any browser: pick your role, read each document, watch the presentation, search the tables and use the dashboard. Each document has one reader and one job, and the numbers agree across all of them.
+Everything opens from **one file**, *Start here* (no. 1), in any browser: pick your role, read each document, watch the presentation, search the tables and use the dashboard. Each document has one reader and one job, and the numbers agree across all of them. PowerPoint and Excel files open in the browser through Microsoft's free online viewer; *download* gives the original file.
 
 | # | File | Format | What it is |
 |---|---|---|---|
-| 00 | [Start here](https://abduwars.github.io/proquant-01-strategy-backtesting/sample-delivery/00_START_HERE_DemoClient.html) | HTML (opens in any browser) | **One file that holds it all**: every document, the presentation, the tables and the dashboard |
-| 01 | [Report](sample-delivery/01_DemoClient_StrategyValidation_Report_v1.0_20261111.pdf) | PDF | Final validation report (~14 pages): executive summary, scorecard, methodology, results, limitations, audit trail |
-| 02 | [Investor Tear Sheet](sample-delivery/02_DemoClient_StrategyValidation_InvestorTearSheet_v1.0_20261111.pdf) | PDF | **Tear sheet for investors**: the strategy on one page |
-| 03 | [Presentation](sample-delivery/03_DemoClient_StrategyValidation_Presentation_v1.0_20261111.pptx) | PowerPoint | **A full talk**: 15 slides with editable charts and speaker notes, ready to present |
-| 04 | [Results Workbook](sample-delivery/04_DemoClient_StrategyValidation_ResultsWorkbook_v1.0_20261111.xlsx) | Excel | **The working file**: a Control panel with live formulas, and every table. Opens on a **Read me** sheet with a linked index |
-| 05 | [Methodology](sample-delivery/05_DemoClient_StrategyValidation_Methodology_v1.0_20261111.pdf) | PDF | Model documentation for auditors / model risk |
-| 06 | [Handover Note](sample-delivery/06_DemoClient_StrategyValidation_HandoverNote_v1.0_20261111.pdf) | PDF | What was delivered, headline result, assumptions, next steps |
-| 07 | [Decision Summary](sample-delivery/07_DemoClient_StrategyValidation_DecisionSummary_v1.0_20261111.pdf) | PDF | **One page for the allocator**: the decision, with no charts |
-| 08 | [Dashboard](https://abduwars.github.io/proquant-01-strategy-backtesting/sample-delivery/08_DemoClient_StrategyValidation_Dashboard_v1.0_20261111.html) | HTML (opens in any browser) | **Interactive dashboard in one file**: opens in any browser, explores the data, tries what-ifs and reads the updated tracker |
+| 1 | [Start here](https://abduwars.github.io/proquant-01-strategy-backtesting/sample-delivery/00_START_HERE_DemoClient.html) | HTML (opens in any browser) | **One file that holds it all**: every document, the presentation, the tables and the dashboard |
+| 2 | [Report](sample-delivery/01_DemoClient_StrategyValidation_Report_v1.0_20261111.pdf) | PDF | Final validation report (~14 pages): executive summary, scorecard, methodology, results, limitations, audit trail |
+| 3 | [Investor Tear Sheet](sample-delivery/02_DemoClient_StrategyValidation_InvestorTearSheet_v1.0_20261111.pdf) | PDF | **Tear sheet for investors**: the strategy on one page |
+| 4 | [Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-01-strategy-backtesting%2Fsample-delivery%2F03_DemoClient_StrategyValidation_Presentation_v1.0_20261111.pptx) | PowerPoint · [download](https://raw.githubusercontent.com/AbduWars/proquant-01-strategy-backtesting/main/sample-delivery/03_DemoClient_StrategyValidation_Presentation_v1.0_20261111.pptx) | **A full talk**: 15 slides with editable charts and speaker notes, ready to present |
+| 5 | [Results Workbook](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-01-strategy-backtesting%2Fsample-delivery%2F04_DemoClient_StrategyValidation_ResultsWorkbook_v1.0_20261111.xlsx) | Excel · [download](https://raw.githubusercontent.com/AbduWars/proquant-01-strategy-backtesting/main/sample-delivery/04_DemoClient_StrategyValidation_ResultsWorkbook_v1.0_20261111.xlsx) | **The working file**: a Control panel with live formulas, and every table. Opens on a **Read me** sheet with a linked index |
+| 6 | [Methodology](sample-delivery/05_DemoClient_StrategyValidation_Methodology_v1.0_20261111.pdf) | PDF | Model documentation for auditors / model risk |
+| 7 | [Handover Note](sample-delivery/06_DemoClient_StrategyValidation_HandoverNote_v1.0_20261111.pdf) | PDF | What was delivered, headline result, assumptions, next steps |
+| 8 | [Decision Summary](sample-delivery/07_DemoClient_StrategyValidation_DecisionSummary_v1.0_20261111.pdf) | PDF | **One page for the allocator**: the decision, with no charts |
+| 9 | [Dashboard](https://abduwars.github.io/proquant-01-strategy-backtesting/sample-delivery/08_DemoClient_StrategyValidation_Dashboard_v1.0_20261111.html) | HTML (opens in any browser) | **Interactive dashboard in one file**: opens in any browser, explores the data, tries what-ifs and reads the updated tracker |
 
 Also delivered: data-quality reports and long-format CSV / Parquet exports for Power BI or Looker Studio.
 
